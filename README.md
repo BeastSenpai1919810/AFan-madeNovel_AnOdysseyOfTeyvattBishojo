@@ -1,4 +1,4 @@
-# An Odyssey of Teyvatt Bishojo (Fan-made article based upon Genshin) (12+ content include)
+# An Odyssey of Teyvatt Bishojo (Fan-made article based upon Genshin) (12+ content might include)
 
 An open-source fan-made novel about a several bishojo trying to cure Lumine's vampirism disease, while trying to figure out the secret of Teyvatt.
 The story might seems nonsense - after all, it's my first attempt on such a complex fan novel. So, **fork it if you like**.
